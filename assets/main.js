@@ -10,7 +10,7 @@
      Tant qu'elle est vide, le formulaire ne prétend JAMAIS avoir envoyé
      le message : il invite à appeler ou à écrire directement.
      ------------------------------------------------------------------ */
-  const WEB3FORMS_KEY = '';
+  const WEB3FORMS_KEY = '1ec947f0-dabb-4698-9dfd-fdbf69a2f50b';
   const ENDPOINT = 'https://api.web3forms.com/submit';
   const CONTACT_MAIL = 'valleevisible@gmail.com';
   const CONTACT_TEL = '06 38 99 11 40';
